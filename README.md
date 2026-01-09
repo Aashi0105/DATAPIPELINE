@@ -2,7 +2,7 @@
 
 Company:Codtech IT solutions
 
-Name:Diya Jani
+Name:Aashi Vora
 
 Intern ID:CT04DR2817
 
